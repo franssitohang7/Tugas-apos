@@ -1,0 +1,93 @@
+<html>
+<head >
+<title>DAFTAR NAMA KELOMPOK</title>
+<style type="text/css">
+h1{
+background-color: red;
+padding: 4px;
+}
+h2{
+color: white;
+background-color: black;
+padding: 3px;
+}
+.menu {
+text-align: center;
+background-color: black;
+font-size:18px;
+padding-top: 16pt;
+}
+.button {
+background-color: white;
+padding: 5px;
+border-color: black;
+text-decoration: none;
+}
+.button:hover {
+background-color: blue;
+}
+</style>
+</head>
+<body>
+<div class="menu">
+<a href="#1" class="button">PROVIL</a>
+<a href="#2" class="button">NIRM</a>
+<a href="#3" class="button">UNIVERSITAS</a>
+<a href="#4" class="button">JURUSAN</a>
+<a href="#4" class="button">KONTAK</a>
+<br><br>
+</div>
+<h1 align="center">DAFTAR NAMA KELOMPOK</h1>
+<h2 id="1">PROFIL</h2>
+<table align="center">
+<tr>
+<td width="1%">Nama</td>
+<td width="10%">: FRANS FRIDERIK BT SITOHANG</td>
+</tr>
+<td width="1%">Nama</td>
+<td width="10%">: WIRA TRISNA</td>
+<tr>
+</table>
+<h2 id="2">NIRM</h2>
+<table align="center">
+<td width="1%">Nirm</td>
+<td width="10%">: 2021040008</td>
+</tr>
+<td width="1%">Nirm</td>
+<td width="10%">: 2021030073</td>
+</tr>
+</table>
+<h2 id="3">UNIVERSITAS</h2>
+<table align="center">
+	</tr>
+<td width="1%">Universitas</td>
+<td width="10%">: STMIK TRIGUNA DHARMA</td>
+</tr>
+<td width="1%">Universitas</td>
+<td width="10%">: STMIK TRIGUNA DHARMA</td>
+</table>
+<h2 id="4">JURUSAN</h2>
+<table align="center">
+</tr>
+<td width="1%">Jurusan</td>
+<td width="10%">:TEKNIK KOMPUTER</td>
+</tr>
+<td width="1%">Jurusan</td>
+<td width="10%">: SISTEM KOMPUTER</td>
+</table>
+<h2 id="5">KONTAK</h2>
+<table align="center">
+<tr>
+<td width="1%">Linkedin</td>
+<td width="10%">: Anakteknik.com</td>
+</tr>
+<tr>
+<td width="1%">Facebook</td>
+<td width="10%">: Anakteknik.com</td>
+</tr>
+<tr>
+<td width="1%">Github</td>
+<td width="10%">: Anakteknik.com</td>
+</tr>
+</footer>
+</body> </html>
